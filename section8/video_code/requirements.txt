@@ -1,0 +1,15 @@
+Flask>2.0, <2.3
+Flask-RESTful
+Flask-JWT
+SQLAlchemy<2.0
+Flask-SQLAlchemy>2.0, <3.0
+# uwsgi
+psycopg2
+
+#DEFAULT SET FROM THE COURSE REPOSITORY
+#Flask
+#Flask-RESTful
+#Flask-JWT
+#Flask-SQLAlchemy
+#uwsgi
+#psycopg2
